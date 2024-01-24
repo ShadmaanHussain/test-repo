@@ -8,7 +8,7 @@ ms.topic: conceptual
 ms.date: 10/04/2023
 ---
 
-# What's new and planned for Synapse Microsoft.Xrm.Sdk.EntityReference in Microsoft Fabric
+# What's new and planned for Synapse Data Warehouse in Microsoft Fabric
 
 > [!Important]
 > The release plans describe functionality that may or may not have been released yet. The delivery timelines and projected functionality may change or may not ship. Refer to [Microsoft policy](https://go.microsoft.com/fwlink/p/?linkid=2007332) for more information.
